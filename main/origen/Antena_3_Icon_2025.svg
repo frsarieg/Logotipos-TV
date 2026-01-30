@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Capa_2"
+   data-name="Capa 2"
+   viewBox="0 0 263.4 263.4"
+   version="1.1"
+   sodipodi:docname="Antena_3_Icon_2025.svg"
+   width="263.39999"
+   height="263.39999"
+   inkscape:version="1.4.3 (1:1.4.3+202512261034+0d15f75042)"
+   inkscape:export-filename="Antena_3_Icon_2025.png"
+   inkscape:export-xdpi="139.95445"
+   inkscape:export-ydpi="139.95445"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="true"
+     inkscape:zoom="2.3828789"
+     inkscape:cx="114.98696"
+     inkscape:cy="121.91135"
+     inkscape:window-width="1386"
+     inkscape:window-height="836"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Capa_2" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .cls-1 {
+        fill: #ff551e;
+      }
+    </style>
+  </defs>
+  <g
+     id="g4"
+     transform="translate(0,8.1099969)">
+    <g
+       id="LOGO">
+      <g
+         id="g3">
+        <g
+           id="g2">
+          <path
+             class="cls-1"
+             d="M 128.01,0 C 56.98,1.3 0,40.19 0,97.24 c 0,25.77 11.63,50.91 30.93,70.91 z"
+             id="path1" />
+          <path
+             class="cls-1"
+             d="m 232.47,168.15 c 19.29,-20 30.93,-45.14 30.93,-70.91 C 263.4,40.19 206.42,1.3 135.39,0 Z"
+             id="path2" />
+        </g>
+        <path
+           class="cls-1"
+           d="M 220.23,179.27 131.7,247.18 43.17,179.27 c 0,0 25.2,-58.5 88.53,-58.5 63.33,0 88.53,58.5 88.53,58.5 z"
+           id="path3" />
+      </g>
+    </g>
+  </g>
+</svg>

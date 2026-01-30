@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 54.190001 54.189999"
+   version="1.1"
+   id="svg182"
+   sodipodi:docname="La_1_2026.svg"
+   width="54.189999"
+   height="54.189999"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview184"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="4.3550229"
+     inkscape:cx="-29.506159"
+     inkscape:cy="27.20996"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg182" />
+  <g
+     filter="url(#a)"
+     transform="translate(-30.4897,-14.722751)"
+     id="g163">
+    <path
+       d="m 62.3904,52.6401 4.6792,1.7502 c 0.5434,0.1825 0.8137,0.5546 0.8137,1.1175 v 3.0489 c 0,0.6647 -0.3316,0.9963 -0.9949,0.9963 H 49.0147 c -0.6647,0 -0.9963,-0.3316 -0.9963,-0.9963 v -3.0489 c 0,-0.5629 0.2717,-0.935 0.8152,-1.1175 l 5.1933,-1.7502 V 27.8828 l -3.2913,2.4748 c -0.241,0.1811 -0.4626,0.2717 -0.6633,0.2717 -0.2424,0 -0.4723,-0.1909 -0.6939,-0.5741 l -2.628,-4.4381 c -0.1408,-0.2411 -0.2118,-0.4529 -0.2118,-0.634 0,-0.262 0.1714,-0.5142 0.5128,-0.7553 l 9.5102,-6.5812 c 0.2606,-0.2006 0.5839,-0.3024 0.9657,-0.3024 h 3.8654 c 0.6646,0 0.9963,0.3317 0.9963,0.9963 v 34.2982 z"
+       fill="#ffffff"
+       id="path161" />
+  </g>
+  <defs
+     id="defs180">
+    <filter
+       id="a"
+       x="40.9216"
+       y="14.7226"
+       width="33.326199"
+       height="54.1903"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood165" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix167" />
+      <feOffset
+         dx=".373762"
+         dy="3.36914"
+         id="feOffset169" />
+      <feGaussianBlur
+         stdDeviation="2.99538"
+         id="feGaussianBlur171" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0.137255 0 0 0 0 0.129412 0 0 0 0 0.282353 0 0 0 0.7 0"
+         id="feColorMatrix173" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow_4400_87186"
+         id="feBlend175" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="effect1_dropShadow_4400_87186"
+         result="shape"
+         id="feBlend177" />
+    </filter>
+  </defs>
+</svg>
